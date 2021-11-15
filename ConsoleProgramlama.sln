@@ -7,11 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleProgramlama", "Conso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{171FB43F-385D-4834-8257-B03647F5E8E4}"
 EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}"
 EndProject
-=======
->>>>>>> 9811e59b8d8f0a9e9edbd1fd85cca266274976a9
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,13 +25,14 @@ Global
 		{171FB43F-385D-4834-8257-B03647F5E8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{171FB43F-385D-4834-8257-B03647F5E8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{171FB43F-385D-4834-8257-B03647F5E8E4}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
->>>>>>> 9811e59b8d8f0a9e9edbd1fd85cca266274976a9
+		{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
