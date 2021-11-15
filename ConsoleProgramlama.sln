@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar-Overloading", "Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar - Recursive Extension Metotlar", "Metotlar - Recursive Extension Metotlar\Metotlar - Recursive Extension Metotlar.csproj", "{EDA12C33-F781-4E5E-B4F8-C7E098AFDB74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DortSoruBirOdev", "DortSoruBirOdev\DortSoruBirOdev.csproj", "{3E087790-DBE0-4182-AE06-42A4E9C1EE37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{EDA12C33-F781-4E5E-B4F8-C7E098AFDB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDA12C33-F781-4E5E-B4F8-C7E098AFDB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDA12C33-F781-4E5E-B4F8-C7E098AFDB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E087790-DBE0-4182-AE06-42A4E9C1EE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E087790-DBE0-4182-AE06-42A4E9C1EE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E087790-DBE0-4182-AE06-42A4E9C1EE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E087790-DBE0-4182-AE06-42A4E9C1EE37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
