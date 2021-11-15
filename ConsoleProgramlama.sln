@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else-Ternary", "If-Else-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case", "Switch-Case\Switch-Case.csproj", "{DA6C3E99-7B0F-4AB6-869F-B417ECC7243F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Loop ve Break Continue", "For Loop ve Break Continue\For Loop ve Break Continue.csproj", "{9300F665-3E2A-460A-A8FA-0872C7B18725}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DA6C3E99-7B0F-4AB6-869F-B417ECC7243F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA6C3E99-7B0F-4AB6-869F-B417ECC7243F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA6C3E99-7B0F-4AB6-869F-B417ECC7243F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9300F665-3E2A-460A-A8FA-0872C7B18725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9300F665-3E2A-460A-A8FA-0872C7B18725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9300F665-3E2A-460A-A8FA-0872C7B18725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9300F665-3E2A-460A-A8FA-0872C7B18725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
