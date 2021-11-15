@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try-Catch-Finally", "Try-Catch-Finally\Try-Catch-Finally.csproj", "{A8E2D831-1503-45B1-8521-7311A4AB8FFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else-Ternary", "If-Else-Ternary\If-Else-Ternary.csproj", "{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A8E2D831-1503-45B1-8521-7311A4AB8FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8E2D831-1503-45B1-8521-7311A4AB8FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8E2D831-1503-45B1-8521-7311A4AB8FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
