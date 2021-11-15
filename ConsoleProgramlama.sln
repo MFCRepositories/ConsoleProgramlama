@@ -9,21 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{A0A807CC-4399-4077-B613-C3C8CB6E2B1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{C4520ACB-7EAD-4980-A61C-56B6F891D5A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try-Catch-Finally", "Try-Catch-Finally\Try-Catch-Finally.csproj", "{A8E2D831-1503-45B1-8521-7311A4AB8FFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Try-Catch-Finally", "Try-Catch-Finally\Try-Catch-Finally.csproj", "{A8E2D831-1503-45B1-8521-7311A4AB8FFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-Else-Ternary", "If-Else-Ternary\If-Else-Ternary.csproj", "{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If-Else-Ternary", "If-Else-Ternary\If-Else-Ternary.csproj", "{609A88F8-D0A1-473C-A9CD-EC9AD0D8F9EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case", "Switch-Case\Switch-Case.csproj", "{DA6C3E99-7B0F-4AB6-869F-B417ECC7243F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch-Case", "Switch-Case\Switch-Case.csproj", "{DA6C3E99-7B0F-4AB6-869F-B417ECC7243F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For Loop ve Break Continue", "For Loop ve Break Continue\For Loop ve Break Continue.csproj", "{9300F665-3E2A-460A-A8FA-0872C7B18725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For Loop ve Break Continue", "For Loop ve Break Continue\For Loop ve Break Continue.csproj", "{9300F665-3E2A-460A-A8FA-0872C7B18725}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_ve_ForEach", "While_ve_ForEach\While_ve_ForEach.csproj", "{D0EA15C0-C901-4DC6-B624-26FCB5C3697C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While_ve_ForEach", "While_ve_ForEach\While_ve_ForEach.csproj", "{D0EA15C0-C901-4DC6-B624-26FCB5C3697C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{CD78C88A-AB76-4FF7-89F9-0EC796F9DD84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{CD78C88A-AB76-4FF7-89F9-0EC796F9DD84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySinifMethodlari", "ArraySinifMethodlari\ArraySinifMethodlari.csproj", "{371BE08C-FF6E-464F-9163-C4BA8B5E7DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySinifMethodlari", "ArraySinifMethodlari\ArraySinifMethodlari.csproj", "{371BE08C-FF6E-464F-9163-C4BA8B5E7DDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gecici", "Gecici\Gecici.csproj", "{E3CE1052-7F6C-4657-9EE2-E5156F15B724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot Tanimlama", "Metot Tanimlama\Metot Tanimlama.csproj", "{5D44DB61-6F2C-4C39-BB14-7235D56CE659}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{371BE08C-FF6E-464F-9163-C4BA8B5E7DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371BE08C-FF6E-464F-9163-C4BA8B5E7DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{371BE08C-FF6E-464F-9163-C4BA8B5E7DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CE1052-7F6C-4657-9EE2-E5156F15B724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CE1052-7F6C-4657-9EE2-E5156F15B724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CE1052-7F6C-4657-9EE2-E5156F15B724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CE1052-7F6C-4657-9EE2-E5156F15B724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D44DB61-6F2C-4C39-BB14-7235D56CE659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D44DB61-6F2C-4C39-BB14-7235D56CE659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D44DB61-6F2C-4C39-BB14-7235D56CE659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D44DB61-6F2C-4C39-BB14-7235D56CE659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
