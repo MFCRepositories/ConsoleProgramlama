@@ -9,7 +9,7 @@ namespace DortSoruBirOdev
             //Soru1();
             //Soru2();
             //Soru3();
-           // Soru4();
+            Soru4();
 
             Console.ReadLine();
 
