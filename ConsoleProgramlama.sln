@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DortSoruBirOdev", "DortSoru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethodlar", "StringMethodlar\StringMethodlar.csproj", "{A608DC8F-EBEE-4FCD-864F-7F6C9B2FBCBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime ve Math Siniflari", "Datetime ve Math Siniflari\Datetime ve Math Siniflari.csproj", "{64AFC8B7-F46A-4460-B27F-34C99A79F03E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A608DC8F-EBEE-4FCD-864F-7F6C9B2FBCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A608DC8F-EBEE-4FCD-864F-7F6C9B2FBCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A608DC8F-EBEE-4FCD-864F-7F6C9B2FBCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AFC8B7-F46A-4460-B27F-34C99A79F03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AFC8B7-F46A-4460-B27F-34C99A79F03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AFC8B7-F46A-4460-B27F-34C99A79F03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AFC8B7-F46A-4460-B27F-34C99A79F03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
