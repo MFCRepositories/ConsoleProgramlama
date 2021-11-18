@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcSoruBirOdev-Odev2", "UcSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme\Deneme.csproj", "{3EC50857-5281-489F-96DD-C031AFBEFBCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor Kavrami", "Constructor Kavrami\Constructor Kavrami.csproj", "{B842019F-5973-4942-B887-C76525685979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{3EC50857-5281-489F-96DD-C031AFBEFBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EC50857-5281-489F-96DD-C031AFBEFBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EC50857-5281-489F-96DD-C031AFBEFBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B842019F-5973-4942-B887-C76525685979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B842019F-5973-4942-B887-C76525685979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B842019F-5973-4942-B887-C76525685979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B842019F-5973-4942-B887-C76525685979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
