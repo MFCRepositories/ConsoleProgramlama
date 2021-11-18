@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Koleksiyonlar", "Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C3DB7AC5-E016-498D-B4D5-775817C500F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
