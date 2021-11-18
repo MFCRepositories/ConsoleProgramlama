@@ -27,23 +27,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySinifMethodlari", "Arr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gecici", "Gecici\Gecici.csproj", "{E3CE1052-7F6C-4657-9EE2-E5156F15B724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot Tanimlama", "Metot Tanimlama\Metot Tanimlama.csproj", "{5D44DB61-6F2C-4C39-BB14-7235D56CE659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metot Tanimlama", "Metot Tanimlama\Metot Tanimlama.csproj", "{5D44DB61-6F2C-4C39-BB14-7235D56CE659}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar-Overloading", "Metotlar-Overloading\Metotlar-Overloading.csproj", "{9D06E4FF-5AB3-4B42-AC61-578B32C3183B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar-Overloading", "Metotlar-Overloading\Metotlar-Overloading.csproj", "{9D06E4FF-5AB3-4B42-AC61-578B32C3183B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar - Recursive Extension Metotlar", "Metotlar - Recursive Extension Metotlar\Metotlar - Recursive Extension Metotlar.csproj", "{EDA12C33-F781-4E5E-B4F8-C7E098AFDB74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar - Recursive Extension Metotlar", "Metotlar - Recursive Extension Metotlar\Metotlar - Recursive Extension Metotlar.csproj", "{EDA12C33-F781-4E5E-B4F8-C7E098AFDB74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DortSoruBirOdev", "DortSoruBirOdev\DortSoruBirOdev.csproj", "{3E087790-DBE0-4182-AE06-42A4E9C1EE37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DortSoruBirOdev", "DortSoruBirOdev\DortSoruBirOdev.csproj", "{3E087790-DBE0-4182-AE06-42A4E9C1EE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethodlar", "StringMethodlar\StringMethodlar.csproj", "{A608DC8F-EBEE-4FCD-864F-7F6C9B2FBCBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMethodlar", "StringMethodlar\StringMethodlar.csproj", "{A608DC8F-EBEE-4FCD-864F-7F6C9B2FBCBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime ve Math Siniflari", "Datetime ve Math Siniflari\Datetime ve Math Siniflari.csproj", "{64AFC8B7-F46A-4460-B27F-34C99A79F03E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datetime ve Math Siniflari", "Datetime ve Math Siniflari\Datetime ve Math Siniflari.csproj", "{64AFC8B7-F46A-4460-B27F-34C99A79F03E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-TimeConversion", "HackerRank-TimeConversion\HackerRank-TimeConversion.csproj", "{85C8D8A3-A10A-42B3-B9F4-BA7060E71574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank-TimeConversion", "HackerRank-TimeConversion\HackerRank-TimeConversion.csproj", "{85C8D8A3-A10A-42B3-B9F4-BA7060E71574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon(Collections)", "Koleksiyon(Collections)\Koleksiyon(Collections).csproj", "{DC7D7F67-85D8-48CA-85E0-D0D0AA9A210A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyon(Collections)", "Koleksiyon(Collections)\Koleksiyon(Collections).csproj", "{DC7D7F67-85D8-48CA-85E0-D0D0AA9A210A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Koleksiyonlar", "Generic Koleksiyonlar\Generic Koleksiyonlar.csproj", "{5E9AA0CB-C716-4A1B-9955-93BA36C921B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Koleksiyonlar", "Generic Koleksiyonlar\Generic Koleksiyonlar.csproj", "{5E9AA0CB-C716-4A1B-9955-93BA36C921B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C3DB7AC5-E016-498D-B4D5-775817C500F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{5E9AA0CB-C716-4A1B-9955-93BA36C921B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9AA0CB-C716-4A1B-9955-93BA36C921B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9AA0CB-C716-4A1B-9955-93BA36C921B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DB7AC5-E016-498D-B4D5-775817C500F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
