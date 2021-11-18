@@ -18,10 +18,10 @@ namespace Datetime_ve_Math_Siniflari
             Console.WriteLine("Haftanın hangi günü:"+DateTime.Now.DayOfWeek);
             Console.WriteLine("Yılın hangi günü:"+DateTime.Now.DayOfYear);
 
-            Console.WriteLine("Yılın hangi günü:"+DateTime.Now.ToLongDateString());
-            Console.WriteLine("Yılın hangi günü:"+DateTime.Now.ToShortDateString());
-            Console.WriteLine("Yılın hangi günü:"+DateTime.Now.ToLongTimeString());
-            Console.WriteLine("Yılın hangi günü:"+DateTime.Now.ToShortTimeString());
+            Console.WriteLine("Tarih ve gün ismi:"+DateTime.Now.ToLongDateString());
+            Console.WriteLine("Tarih:"+DateTime.Now.ToShortDateString());
+            Console.WriteLine("Saat ve saniye:"+DateTime.Now.ToLongTimeString());
+            Console.WriteLine("Saniye:"+DateTime.Now.ToShortTimeString());
             //zaman  Ekleme bölümü
             Console.WriteLine(DateTime.Now.AddDays(3));
             Console.WriteLine(DateTime.Now.AddHours(3));
