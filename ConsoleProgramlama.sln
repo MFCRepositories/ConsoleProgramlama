@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinif Instance Field Proper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-ClassVsInstance", "HackerRank-ClassVsInstance\HackerRank-ClassVsInstance.csproj", "{78375241-0A32-4FF6-AAE7-EF6E371B93A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{4C8B9443-4F04-42D0-AA4F-093581CA246F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
