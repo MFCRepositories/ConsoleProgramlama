@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Kalitim_Inheritance_
+namespace Polymorphism_ve_Sealed_Class
 {
     public class Canlilar
     {
@@ -19,9 +19,14 @@ namespace Kalitim_Inheritance_
             Console.WriteLine("Canlılar bosaltım yapar");
         }
 
-        public virtual void AyiranOzellik()
+        public virtual void UyaranlaraTepki()
         {
-            Console.WriteLine("Canlılar darbelere tepkisiz kalamazlar ");
+            Console.WriteLine("Canlilar uyaranlara tepki verir.");
+        }
+
+        public virtual void GenelOzellik()
+        {
+            Console.WriteLine("Canlılar canlıdır");
         }
     }
 }

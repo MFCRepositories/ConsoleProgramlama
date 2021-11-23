@@ -11,8 +11,9 @@ namespace Kalitim_Inheritance_
             // Bir sınıfın başka bir üst sınıftan miras almasına kalıtım denir.
             // Miras veren sınıf tüm özelliklerini alt sınıfa aktarmış olur.
 
-                        TohumluBitkiler tohumluBitkiler = new TohumluBitkiler();
+                       
             //tohumluBitkiler.Beslenme();//Protected oldugundan erişim saglayamaz.Base sınıfından alabiliriz
+            TohumluBitkiler tohumluBitkiler = new TohumluBitkiler();
             tohumluBitkiler.Solunum();
             tohumluBitkiler.Bosaltim();
             tohumluBitkiler.Fotosentez();

@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalitim(Inheritance)", "Kalitim(Inheritance)\Kalitim(Inheritance).csproj", "{657302F9-6D38-4C27-AB66-29CFD55330A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism ve Sealed Class", "Polymorphism ve Sealed Class\Polymorphism ve Sealed Class.csproj", "{C16F8060-96F3-44DF-BF6E-E775C396D6A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{657302F9-6D38-4C27-AB66-29CFD55330A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657302F9-6D38-4C27-AB66-29CFD55330A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657302F9-6D38-4C27-AB66-29CFD55330A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16F8060-96F3-44DF-BF6E-E775C396D6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16F8060-96F3-44DF-BF6E-E775C396D6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16F8060-96F3-44DF-BF6E-E775C396D6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16F8060-96F3-44DF-BF6E-E775C396D6A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
