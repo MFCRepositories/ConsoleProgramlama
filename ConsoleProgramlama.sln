@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-ClassVsInstance"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{4C8B9443-4F04-42D0-AA4F-093581CA246F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C8B9443-4F04-42D0-AA4F-093581CA246F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
