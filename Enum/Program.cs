@@ -4,8 +4,9 @@ namespace Enum
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+           
             //Enum (Sıralama)
             //Uygulama geliştirirken sabit değerlerle çalışmak durumunda kalırız.
             //Bu noktalarda okunabilirliği yüksek bir program yazmak istiyorsak enum lardan faydalanırız.
