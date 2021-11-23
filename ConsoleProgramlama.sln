@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderByteWordCount2Solution
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderByte-SimpleEvens", "CoderByte-SimpleEvens\CoderByte-SimpleEvens.csproj", "{D4DD2C09-265E-4833-84EF-F27EF258AB0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.App-Proje2", "ToDo.App-Proje2\ToDo.App-Proje2.csproj", "{43F833CE-203F-4A64-BEA2-D0CEF4338341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinif Instance Field Property", "Sinif Instance Field Property\Sinif Instance Field Property.csproj", "{D122DCD1-716A-4408-BAE6-4257C0D98D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{D4DD2C09-265E-4833-84EF-F27EF258AB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DD2C09-265E-4833-84EF-F27EF258AB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DD2C09-265E-4833-84EF-F27EF258AB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F833CE-203F-4A64-BEA2-D0CEF4338341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F833CE-203F-4A64-BEA2-D0CEF4338341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F833CE-203F-4A64-BEA2-D0CEF4338341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F833CE-203F-4A64-BEA2-D0CEF4338341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
