@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Sınıf ve Uyeler", "Static Sınıf ve Uyeler\Static Sınıf ve Uyeler.csproj", "{22047136-69E3-4717-9F9C-F1A7D2C5B7D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5365BCD-C2AB-4F56-8BCA-C6893ABE7D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22047136-69E3-4717-9F9C-F1A7D2C5B7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22047136-69E3-4717-9F9C-F1A7D2C5B7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22047136-69E3-4717-9F9C-F1A7D2C5B7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22047136-69E3-4717-9F9C-F1A7D2C5B7D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
