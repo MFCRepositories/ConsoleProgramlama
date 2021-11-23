@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.App-Proje2", "ToDo.App
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinif Instance Field Property", "Sinif Instance Field Property\Sinif Instance Field Property.csproj", "{D122DCD1-716A-4408-BAE6-4257C0D98D45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank-ClassVsInstance", "HackerRank-ClassVsInstance\HackerRank-ClassVsInstance.csproj", "{78375241-0A32-4FF6-AAE7-EF6E371B93A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D122DCD1-716A-4408-BAE6-4257C0D98D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78375241-0A32-4FF6-AAE7-EF6E371B93A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
