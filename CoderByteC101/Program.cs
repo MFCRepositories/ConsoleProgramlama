@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CoderByteC101
+namespace CoderByteWordCount2Solution
 {
     class Program
     {
