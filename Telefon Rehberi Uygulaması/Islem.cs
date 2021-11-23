@@ -58,7 +58,7 @@ namespace Telefon_Rehberi_Uygulaması
             }
             Console.WriteLine("Listeleniyor");
             Thread.Sleep(3000);
-        }
+        } 
         public void Arama()
         {
             Console.WriteLine("Aramaya hoşgeldiniz");

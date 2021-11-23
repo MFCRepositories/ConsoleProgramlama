@@ -49,6 +49,7 @@ namespace StringMethodlar
 
             string[] dizi = cumle.Split(' ');
             string[] dizi2 = cumle.Split('-');
+            
             //Split string bir dizi oluşturur bu dizi elemanları foreach ile kullanılabilir
             Console.WriteLine("SubString:"+cumle.Substring(3,20));
             //bir cümlede 3 den basla 20 karakter uzunlukta yaz

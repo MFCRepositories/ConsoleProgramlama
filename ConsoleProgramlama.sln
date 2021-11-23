@@ -45,17 +45,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyon(Collections)", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Koleksiyonlar", "Generic Koleksiyonlar\Generic Koleksiyonlar.csproj", "{5E9AA0CB-C716-4A1B-9955-93BA36C921B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C3DB7AC5-E016-498D-B4D5-775817C500F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C3DB7AC5-E016-498D-B4D5-775817C500F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{DFF55CF7-FA1E-4803-877C-32E78DE9BB66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcSoruBirOdev-Odev2", "UcSoruBirOdev-Odev2\UcSoruBirOdev-Odev2.csproj", "{20382805-F203-4904-A1DC-9F26E315B0BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcSoruBirOdev-Odev2", "UcSoruBirOdev-Odev2\UcSoruBirOdev-Odev2.csproj", "{20382805-F203-4904-A1DC-9F26E315B0BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme\Deneme.csproj", "{3EC50857-5281-489F-96DD-C031AFBEFBCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deneme", "Deneme\Deneme.csproj", "{3EC50857-5281-489F-96DD-C031AFBEFBCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor Kavrami", "Constructor Kavrami\Constructor Kavrami.csproj", "{B842019F-5973-4942-B887-C76525685979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor Kavrami", "Constructor Kavrami\Constructor Kavrami.csproj", "{B842019F-5973-4942-B887-C76525685979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telefon Rehberi Uygulaması", "Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması.csproj", "{7C86ACC4-C72F-40BC-96BA-AE72B1569F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telefon Rehberi Uygulaması", "Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması.csproj", "{7C86ACC4-C72F-40BC-96BA-AE72B1569F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderByteC101", "CoderByteC101\CoderByteC101.csproj", "{21D7D849-58D6-4571-A18F-2DCD9841B2D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{7C86ACC4-C72F-40BC-96BA-AE72B1569F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C86ACC4-C72F-40BC-96BA-AE72B1569F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C86ACC4-C72F-40BC-96BA-AE72B1569F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D7D849-58D6-4571-A18F-2DCD9841B2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D7D849-58D6-4571-A18F-2DCD9841B2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D7D849-58D6-4571-A18F-2DCD9841B2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D7D849-58D6-4571-A18F-2DCD9841B2D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
